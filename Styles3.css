@@ -1,0 +1,55 @@
+body{
+  width: 100%;
+  height: 100px;
+  margin: auto;
+  background-color: #252323;
+}
+main{
+  margin: 0 auto;
+  width: 980px;
+  position: relative;
+}
+
+.logo {
+  float: left;
+  padding-top: 25px;
+  width: 17%;
+
+}
+
+.header-texto2{
+  color: white;
+  font-family: "Montserrat";
+  text-decoration: none;
+}
+
+.lembrar-senha{
+  font-size: 15px;
+  size: 15px;
+
+
+}
+.menu ul li {
+  margin-left: 50px;
+  display: inline-block;
+  float: left;
+  list-style: none;
+  color: white;
+}
+.menu ul li a:hover {
+  color: #00bac6;
+  border-bottom: 2px solid #00bac6
+}
+
+.menu ul li a{
+  color: white;
+  font-family: "Montserrat";
+  text-decoration: none;
+}
+
+.menu {
+  float: right;
+  padding-top: 20px;
+  width: 76%;
+  
+}
